@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Construclytic formula dataset
+message: "If you use this dataset, please cite it as: Construclytic formula dataset, construclytic.com"
+type: dataset
+authors:
+  - family-names: Sheikh
+    given-names: Feroz
+    affiliation: Construclytic
+repository-code: https://github.com/FerozBhai01/construction-calculator-formulas
+url: https://construclytic.com/formula-registry
+license: CC-BY-4.0
+keywords:
+  - construction
+  - calculator
+  - formulas
+  - dataset
+  - gcc
+  - open-data
